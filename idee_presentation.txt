@@ -51,8 +51,7 @@ Elle peut repérer les personnes, mais aussi de nombreux objets, comme ce télé
 
 [montrer un téléphone à la caméra]
 
-N'est-ce pas merveilleux ? Notre webcam est maintenant doté d'une capacité de reconnaissance inédite sur le marché des jouets, et ce n'est pas tout : 
-nous sommes capables d'enregistrer la liste des objets ou personnes identifiés, et cela nous ouvre de nombreuses possibilités ! 
+N'est-ce pas merveilleux ? Notre webcam est maintenant doté d'une capacité de reconnaissance de formes fascinante qui ouvre de nombreuses possibilités ! 
 Fanny va vous parler plus en détail du fonctionnement de cette maquette pour celles et ceux qui sont impressionnés par ces prouesses technologiques !
 
 _____________________________________________________________
