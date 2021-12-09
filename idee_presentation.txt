@@ -15,7 +15,7 @@ ___________________________________________
 Andréa : Bonjour à vous !
 Comme vous le savez déjà, Nono le robot est issu de notre volonté de fournir à nos enfants non pas un simple jouet, 
 mais bel et bien un ami qui puisse l'accompagner, avec qui il puisse discuter et intéragir. 
-Et c'est déjà le cas aujourd'hui, mais ne pourrions-nous pas faire encore mieux en donnant la capacité à Nono de lui répondre ?
+Et c'est déjà le cas aujourd'hui, mais ne pourrions-nous pas faire encore mieux en donnant la capacité à Nono de l'épater ?
 
 Comment donner le sens de la vue à notre robot, voila la question que nous nous sommes posée ! 
 Nous étions persuadés, au sein de notre équipe du pôle innovation, que cela était possible : et aujourd'hui nous en avons la preuve !
