@@ -1,0 +1,47 @@
+Jean : Bonjour ! Cela fait déjà plusieurs années que nous avons conçu Nono le robot, avec l'espoir qu'il apporte joie et bonne humeur à nos enfants. Aujourd'hui, nous voulons vous présenter un concept qui lui permettra d'évoluer grâce à de nouvelles fonctionnalités de reconnaissances visuelles se basant sur des technologies de pointe, accessibles dès à présent.
+
+Andréa vous parlera des raisons qui nous ont poussé à mener ces recherches.
+
+Lorraine vous exposera la maquette que nous avons mise en place, et des fonctionnalités que nous avons développées pour tester notre concept.
+
+Fanny vous parlera plus en détail du fonctionnement de cette maquette, d'un point de vue plus technique.
+
+Enfin, je finirais notre présentation par des idées d'implémentation et d'avenir ! Je laisse la parole à Andréa.
+
+___________________________________________
+
+Andréa : Bonjour à vous ! Comme vous le savez déjà, Nono le robot est issu de notre volonté de fournir à nos enfants non pas un simple jouet, mais bel et bien un ami qui puisse l'accompagner, avec qui il puisse discuter et intéragir. Et c'est déjà le cas aujourd'hui, mais ne pourrions-nous pas faire encore mieux en donnant la capacité à Nono de lui répondre ?
+
+Comment donner le sens de la vue à notre robot, voila la question que nous nous sommes posée ! Nous étions persuadés, au sein de notre équipe du pôle innovation, que cela était possible : et aujourd'hui nous en avons la preuve !
+
+En effet, l'idée que nous vous proposons est d'équiper Nono d'une caméra, qui lui permette d'identifier les objets et les personnes du quotidien, pour qu'ensuite il puisse surprendre et faire rire nos enfants !
+
+Cela est possible de nos jours grâce à des algorithmes d'intelligence artificielle doués dans la reconnaissance des formes, pré-entrainés sur des milliers d'images. Lorraine va vous présenter la maquette que nous avons réalisée afin que vous en soyez vous-même convaincus !
+
+_______________________________________________________
+
+Lorraine : Bonjour ! Je sais que vous êtes maintenant impatients de voir le résultat de nos recherches, alors sans plus attendre, je vous présente notre maquette ! [la page web s'affiche]
+
+Comme vous pouvez le voir, nous avons ici intégré à une page web le rendu d'une webcam. Ce bouton me permet de l'activer, et directement vous pourrez assister à de la magie informatique, une détection d'objets et de personnes fonctionnelle !
+
+Attention... [appui sur le bouton] TADA ! Regardez, cette simple webcam peut maintenant repérer des tas de choses dans son environnement. Elle peut par exemple repérer les personnes, mais aussi de nombreux objets, comme ce téléphone par exemple [montrer un téléphone à la caméra]
+
+N'est-ce pas merveilleux ? Notre webcam est maintenant doté d'une capacité de reconnaissance inédite sur le marché des jouets, et ce n'est pas tout : nous sommes capables d'enregistrer la liste des objets ou personnes identifiés, et cela nous ouvre de nombreuses possibilités ! Fanny va vous parler plus en détail du fonctionnement de cette maquette pour celles et ceux qui sont impressionnés par ces prouesses technologiques !
+
+_____________________________________________________________
+
+Fanny : Bonjour ! Cette maquette est une version initiale de notre prototype qui pourra directement être intégré à Nono le robot ! Nous l'avons conçu autour d'une page web qui s'articule autour des technologies HTML, CSS et Javascript, et qui intègrent un modèle d'intelligence artificielle de reconnaissance de formes dans des images.
+
+Grâce au modèle pré-entrainé de google se nommant cocossd, et la librairie TensorflowJS qui permet de l'exploiter, nous avons pu intercaler une détection d'objets et de personnes à chaque frame capturée par la webcam. Le modèle est alors capable de nous fournir 2 choses : la "class" de l'objet détecté, s'il s'agit d'une personne, d'un téléphone, d'un chat ou bien d'une pizza (clin d'oeil à Thibault), et les coordonnés dans l'image de ces détections. Nous avons utilisé ces dernières pour dessiner cette bounding box afin que vous puissiez voir le résultat de ces prédictions. Les boites entourantes s'affichent et s'effacent au fur et à mesure que le stream de la caméra est scruté par le modèle !
+
+Nous sommes de plus capables, en temps réel, comme vous pouvez le constater dans cette zone, de récupérer et d'enregistrer ces données pour des utilisations ultérieures, à des fin de sauvegarde ou autre ! Jean va à présent conclure cette présentation.
+
+_________________________________________________________________
+
+Jean : Merci ! Comme vous pouvez le voir, ces technologies sont déjà à portée de main, et notre robot sera capable d'identifier près de 80 formes différentes grâce au modèle cocossd, mais cela, ce n'est que le début. En effet, vous l'avez compris, rien que cette simple évolution permet une plus grande interactivité avec Nono, car nous pouvons grâce à ces identifications, doter Nono de la parole, en plusieurs langues, et nous sommes certain que cela sera déjà très amusant pour nos chers bambins ! Ils seront ravis que Nono reconnaisse leur chat ou leur chien, leur maman ou leur papa !
+
+Mais imaginez la joie sur leur visage lorsque Nono les reconnaîtra, eux-mêmes et les appelera par leur prénom ! Et en allant plus loin, pourquoi pas permettre à Nono de se déplacer vers certains objets, ou vers son ami ? Ces idées sont les prémisses d'une ère nouvelle de jouets !
+
+Dans un avenir proche, et lorsque la miniaturisation sera suffisament avancée pour nous le permettre, doter Nono lui-même d'une capacité d'apprentissage automatique sera possible. L'enfant pourra lui apprendre à reconnaître les objets qu'il souhaite, et cela fera de Nono, nous en sommes convaincu, un jouet aux capacités infinies !
+
+Merci d'avoir assisté à notre présentation !
