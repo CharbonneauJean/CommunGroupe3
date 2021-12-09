@@ -85,12 +85,13 @@ mais cela, ce n'est que le début.
 En effet, vous l'avez compris, rien que cette simple évolution permet une plus grande interactivité avec Nono, car nous pouvons grâce à ces identifications, 
 doter Nono de la parole ! 
 
-Et pourquoi pas en plusieurs langues ! 
 Nous sommes certain que cela sera déjà très amusant pour nos chers bambins ! 
-Ils seront ravis que Nono reconnaisse leur chat ou leur chien, leur maman ou leur papa ! Et surtout, des pizzas !
+Ils seront ravis que Nono reconnaisse leur chat, leur chien, leur maman ou leur papa ! Et il peut même reconnaitre des pizzas !
 
-Mais, en allant encore plus loin, imaginez la joie sur leur visage lorsque Nono les reconnaîtra, eux-mêmes et les appelera par leur prénom !
-Pourquoi pas permettre à Nono de se déplacer vers certains objets, ou vers son ami ?
+Mais, en allant encore plus loin, imaginez la joie sur leur visage lorsque Nono les reconnaîtra, eux, et les appelera par leur prénom !
+Pourquoi pas aussi permettre à Nono de se déplacer vers certains objets, ou vers son ami ?
+L'enfant pourrait jouer à cache cache avec Nono !
+
 Ces idées sont les prémisses d'une ère nouvelle de jouets !
 
 Dans un avenir proche, et lorsque la miniaturisation sera suffisament avancée pour nous le permettre, doter Nono lui-même d'une capacité d'apprentissage automatique
