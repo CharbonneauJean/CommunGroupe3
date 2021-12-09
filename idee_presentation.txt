@@ -69,8 +69,8 @@ Le modèle est alors capable de nous fournir 2 choses :
   - la "class" de l'objet détecté, s'il s'agit d'une personne, d'un téléphone, d'un chat ou bien d'une pizza (clin d'oeil à Thibault), 
   - et les coordonnés dans l'image de ces détections. 
 
-Nous avons utilisé ces détections pour dessiner cette bounding box afin que vous puissiez voir le résultat de ces prédictions. 
-Les boites entourantes s'affichent et s'effacent au fur et à mesure que le stream de la caméra est scruté par le modèle !
+Nous avons utilisé ces coordonnées pour dessiner des bounding box afin que vous puissiez voir le résultat de ces prédictions. 
+Ces boites entourantes s'affichent et s'effacent au fur et à mesure que le stream de la caméra est scruté par le modèle !
 
 Nous sommes de plus capables, comme vous pouvez le constater dans cette zone à droite, de récupérer et d'enregistrer ces détections pour des utilisations ultérieures.
 Jean vous en dira plus en concluant cette présentation.
